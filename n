@@ -1,5 +1,2 @@
 abc
 bbc
-ccb
-aab
-xxz
